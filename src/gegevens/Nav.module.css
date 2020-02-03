@@ -1,4 +1,4 @@
-.nav {
+  .nav {
     grid-area: n;
     background-color: lightgrey;
   
@@ -6,3 +6,7 @@
   .item {
       color: white;
   }
+
+  .item.active {
+    color: blue;
+}
