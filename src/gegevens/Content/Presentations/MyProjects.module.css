@@ -1,0 +1,19 @@
+
+  
+.cont {
+  grid-area: c;
+  background-color: lightsteelblue;
+
+}
+.contImg {
+  height: 110px;
+  width: 100%;
+}
+.iam {
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  border-radius: 50%;
+  
+
+}

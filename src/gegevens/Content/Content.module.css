@@ -1,17 +1,16 @@
-.cont {
+  .cont {
     grid-area: c;
-    background-color: lightsteelblue;
-  
+    background-color: cornflowerblue;
   }
+
   .contImg {
     height: 110px;
     width: 100%;
   }
+
   .iam {
-    height: 80px;
+    height: 80px; 
     width: 80px;
     text-align: center;
-    border-radius: 50%;
-    
-  
+    border-radius: 50px;     
   }
